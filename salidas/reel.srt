@@ -1,0 +1,167 @@
+1
+00:00:00,000 --> 00:00:01,679
+¿Qué incendios del Perú
+
+2
+00:00:01,679 --> 00:00:03,339
+pueden crecer del veintidós
+
+3
+00:00:03,339 --> 00:00:04,580
+al veintiocho de octubre?
+
+4
+00:00:04,879 --> 00:00:06,219
+Lo calculé para los
+
+5
+00:00:06,219 --> 00:00:07,839
+cinco distritos más afectados,
+
+6
+00:00:08,039 --> 00:00:08,960
+con focos hasta el
+
+7
+00:00:08,960 --> 00:00:09,400
+veintiuno.
+
+8
+00:00:09,740 --> 00:00:11,199
+El diecisiete de octubre
+
+9
+00:00:11,199 --> 00:00:12,820
+cayeron en promedio veinticuatro
+
+10
+00:00:12,820 --> 00:00:14,380
+milímetros de lluvia en
+
+11
+00:00:14,380 --> 00:00:15,199
+esos distritos,
+
+12
+00:00:15,419 --> 00:00:16,420
+y los focos de
+
+13
+00:00:16,420 --> 00:00:17,600
+calor se desplomaron.
+
+14
+00:00:18,399 --> 00:00:19,719
+Según el pronóstico,
+
+15
+00:00:20,019 --> 00:00:21,100
+el domingo veinticinco de
+
+16
+00:00:21,100 --> 00:00:22,219
+octubre es día de
+
+17
+00:00:22,219 --> 00:00:23,399
+riesgo en cuatro de
+
+18
+00:00:23,399 --> 00:00:24,440
+esos cinco distritos.
+
+19
+00:00:25,679 --> 00:00:26,820
+Río Tambo,
+
+20
+00:00:27,160 --> 00:00:27,620
+en Junín,
+
+21
+00:00:27,839 --> 00:00:28,640
+es el que más
+
+22
+00:00:28,640 --> 00:00:29,339
+puede crecer,
+
+23
+00:00:29,539 --> 00:00:30,699
+el único con dos
+
+24
+00:00:30,699 --> 00:00:31,820
+días de riesgo y
+
+25
+00:00:31,820 --> 00:00:33,159
+solo diecinueve milímetros
+
+26
+00:00:33,159 --> 00:00:33,719
+de lluvia.
+
+27
+00:00:35,560 --> 00:00:37,259
+En el incendio principal
+
+28
+00:00:37,259 --> 00:00:38,119
+de Nueva Requena,
+
+29
+00:00:38,359 --> 00:00:39,179
+la huella de los
+
+30
+00:00:39,179 --> 00:00:40,859
+focos satelitales infló
+
+31
+00:00:40,859 --> 00:00:41,939
+el área quemada dos
+
+32
+00:00:41,939 --> 00:00:42,820
+coma cinco veces.
+
+33
+00:00:44,039 --> 00:00:45,479
+Según Sentinel dos,
+
+34
+00:00:45,939 --> 00:00:47,100
+ese incendio quemó ciento
+
+35
+00:00:47,100 --> 00:00:48,479
+sesenta y seis hectáreas,
+
+36
+00:00:48,719 --> 00:00:50,219
+la mayoría con severidad
+
+37
+00:00:50,219 --> 00:00:51,299
+moderada o alta.
+
+38
+00:00:52,320 --> 00:00:53,659
+Los mapas y el
+
+39
+00:00:53,659 --> 00:00:54,600
+código están en mi
+
+40
+00:00:54,600 --> 00:00:56,380
+GitHub monitor de incendios.
+
+41
+00:00:56,880 --> 00:00:58,219
+Comenta qué distrito te
+
+42
+00:00:58,219 --> 00:00:58,939
+preocupa más.

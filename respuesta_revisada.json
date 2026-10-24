@@ -1,0 +1,59 @@
+{
+  "titulo": "¿Qué incendios pueden crecer?",
+  "escenas": [
+    {
+      "frase": "¿Qué incendios del Perú pueden crecer del veintidós al veintiocho de octubre? Lo calculé para los cinco distritos más afectados, con focos hasta el veintiuno.",
+      "cifra": "21 oct",
+      "etiqueta": "Corte de los focos satelitales",
+      "revisado_a_mano": "Qwen decía 'Hasta el veintiuno de octubre analicé dónde pueden crecer… esta semana': sonaba a que el análisis terminó el 21, y 'esta semana' caduca. El 21 es el corte de los focos VIIRS; el pronóstico va del 22 al 28."
+    },
+    {
+      "frase": "El diecisiete de octubre cayeron en promedio veinticuatro milímetros de lluvia en esos distritos, y los focos de calor se desplomaron.",
+      "cifra": "24 mm",
+      "etiqueta": "Lluvia que cortó el pico",
+      "revisado_a_mano": "Faltaban 'en promedio' y dónde: los 24 mm son el promedio sobre los 5 distritos más afectados, no sobre todo el Perú."
+    },
+    {
+      "frase": "Según el pronóstico, el domingo veinticinco de octubre es día de riesgo en cuatro de esos cinco distritos.",
+      "cifra": "Dom 25",
+      "etiqueta": "Día de riesgo en 4 de 5 distritos",
+      "revisado_a_mano": "Qwen decía 'será el día de mayor riesgo': lo daba por seguro y como el peor día del país. El README dice que es un pronóstico y que es 'día de riesgo' (HDW y lluvia como en los días pico) en 4 de los 5 distritos."
+    },
+    {
+      "frase": "Río Tambo, en Junín, es el que más puede crecer: el único con dos días de riesgo y solo diecinueve milímetros de lluvia.",
+      "cifra": "19 mm",
+      "etiqueta": "Lluvia esperada en Río Tambo",
+      "revisado_a_mano": "Qwen decía que los 19 mm 'lo hacen' el de mayor riesgo. Según el README, es el que más puede crecer por ser el único con dos días de riesgo (sábado 24 y domingo 25) y, además, el que menos lluvia espera."
+    },
+    {
+      "frase": "En el incendio principal de Nueva Requena, la huella de los focos satelitales infló el área quemada dos coma cinco veces.",
+      "cifra": "2,5×",
+      "etiqueta": "Huella VIIRS vs. área quemada",
+      "revisado_a_mano": "Qwen lo generalizaba ('la huella satelital infla el área… respecto a la medición real'). Se midió en un solo incendio (412 ha de huella frente a 166 ha), y el dNBR también es una estimación: 115 o 166 ha según el umbral."
+    },
+    {
+      "frase": "Según Sentinel dos, ese incendio quemó ciento sesenta y seis hectáreas, la mayoría con severidad moderada o alta.",
+      "cifra": "166 ha",
+      "etiqueta": "Área quemada según Sentinel-2",
+      "revisado_a_mano": "La etiqueta decía 'Área real quemada': es una estimación con el dNBR de Sentinel-2. En la frase, 'Sentinel dos' va en palabras para que la voz no lea dígitos."
+    },
+    {
+      "frase": "Los mapas y el código están en mi GitHub, monitor de incendios. Comenta qué distrito te preocupa más.",
+      "cifra": "",
+      "etiqueta": "Míralo en mi GitHub",
+      "revisado_a_mano": "Qwen invitaba a 'ver el tablero interactivo en el enlace de mi perfil', pero no hay un tablero publicado: el análisis está en el repositorio github.com/dgarcesg/monitor-de-incendios."
+    }
+  ],
+  "hashtags": [
+    "#IncendiosForestales",
+    "#Perú",
+    "#CienciaDeDatos",
+    "#VIIRS",
+    "#Monitoreo"
+  ],
+  "posts": {
+    "linkedin": "Analicé los focos de calor del Perú entre el 14 y el 21 de octubre de 2026 y comparé el pronóstico de Open-Meteo con el clima con que ardió cada distrito la semana anterior. La lluvia del 17 de octubre cortó el pico de incendios, pero según el pronóstico el domingo 25 es día de riesgo en cuatro de los cinco distritos más afectados.\n\nRío Tambo, en Junín, es el incendio que más puede crecer: es el único con dos días de riesgo y el que menos lluvia espera, 19 mm del 22 al 28 de octubre. En el incendio principal de Nueva Requena, la huella VIIRS infló 2,5 veces el área quemada que estimé con Sentinel-2.\n\nLos mapas, el código y los datos están en mi GitHub: github.com/dgarcesg/monitor-de-incendios. La voz del video fue generada con IA a partir de mi voz.",
+    "x": "Con focos de calor hasta el 21 oct: la lluvia del 17 cortó el pico, pero el domingo 25 es día de riesgo en cuatro de los cinco distritos más afectados. Río Tambo es el que más puede crecer. Voz generada con IA a partir de mi voz. #IncendiosForestales",
+    "facebook": "¿Qué incendios del Perú pueden crecer del 22 al 28 de octubre? Con focos de calor hasta el 21 de octubre, analicé los cinco distritos más afectados. La lluvia del 17 cortó el pico, pero según el pronóstico el domingo 25 es día de riesgo en cuatro de ellos. Río Tambo, en Junín, es el que más puede crecer: el único con dos días de riesgo y solo 19 mm de lluvia esperados. En el incendio principal de Nueva Requena, la huella satelital VIIRS infló 2,5 veces el área quemada que estimé con Sentinel-2. Los mapas y el código están en mi GitHub: github.com/dgarcesg/monitor-de-incendios. La voz del video fue generada con IA a partir de mi voz."
+  }
+}

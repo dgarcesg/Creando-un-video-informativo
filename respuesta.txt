@@ -1,0 +1,54 @@
+```json
+{
+  "titulo": "Incendios Perú: riesgo esta semana",
+  "escenas": [
+    {
+      "frase": "Hasta el veintiuno de octubre analicé dónde pueden crecer los incendios forestales en Perú esta semana.",
+      "cifra": "21 oct",
+      "etiqueta": "Fecha de corte del análisis"
+    },
+    {
+      "frase": "El diecisiete de octubre cayeron veinticuatro milímetros de lluvia y los focos de calor se desplomaron.",
+      "cifra": "24 mm",
+      "etiqueta": "Lluvia que cortó el pico"
+    },
+    {
+      "frase": "El domingo veinticinco de octubre será el día de mayor riesgo de incendio esta semana.",
+      "cifra": "25",
+      "etiqueta": "Día de máximo riesgo"
+    },
+    {
+      "frase": "Río Tambo espera solo diecinueve milímetros de lluvia, lo que lo hace el incendio de mayor riesgo.",
+      "cifra": "19 mm",
+      "etiqueta": "Lluvia esperada en Río Tambo"
+    },
+    {
+      "frase": "La huella satelital infla el área quemada dos coma cinco veces respecto a la medición real.",
+      "cifra": "2,5×",
+      "etiqueta": "Inflación del área por satélite"
+    },
+    {
+      "frase": "El incendio de Nueva Requena quemó ciento sesenta y seis hectáreas, la mayoría con severidad moderada o alta.",
+      "cifra": "166 ha",
+      "etiqueta": "Área real quemada en Nueva Requena"
+    },
+    {
+      "frase": "Mira el tablero interactivo en el enlace de mi perfil y comenta qué distrito te preocupa más.",
+      "cifra": "",
+      "etiqueta": "Mira el tablero: enlace en mi perfil"
+    }
+  ],
+  "hashtags": [
+    "#IncendiosForestales",
+    "#Perú",
+    "#CienciaDeDatos",
+    "#VIIRS",
+    "#Monitoreo"
+  ],
+  "posts": {
+    "linkedin": "Analicé los focos de calor en Perú entre el 14 y el 21 de octubre de 2026, y crucé el pronóstico de Open-Meteo con los datos de la semana anterior. La lluvia del 17 de octubre cortó el pico de incendios, pero el domingo 25 se perfila como día de riesgo en cuatro distritos.\n\nRío Tambo, en Junín, es el incendio que más puede crecer: es el único con dos días de riesgo y el que menos lluvia espera esta semana. Descubrí también que la huella VIIRS infla el área quemada 2,5 veces respecto a la medición real con Sentinel-2.\n\nEl análisis completo, con mapas y pronósticos, está en mi tablero. La voz del video fue generada con IA a partir de mi voz.",
+    "x": "Analicé focos de calor en Perú hasta el 21 oct. La lluvia del 17 cortó el pico, pero el domingo 25 es día de riesgo. Río Tambo puede crecer más. VIIRS infla el área 2,5×. 🎙️ Voz generada con IA a partir de mi voz. #IncendiosForestales",
+    "facebook": "¿Qué incendios pueden crecer esta semana en Perú? Analicé los focos de calor hasta el 21 de octubre y encontré que la lluvia del 17 cortó el pico, pero el domingo 25 es día de riesgo. Río Tambo, en Junín, es el que más puede crecer con solo 19 mm de lluvia esperados. La huella VIIRS infla el área quemada 2,5 veces respecto a la medición real. Mira el tablero interactivo en el enlace de mi perfil para ver todos los datos. La voz del video fue generada con IA a partir de mi voz."
+  }
+}
+```
