@@ -8,9 +8,9 @@ Las cifras de Qwen estaban bien, pero 5 de las 7 frases decían algo que el READ
 
 ## Correcciones al audio
 
-- La voz pronunciaba «GitHub» como «Gitbo». Para corregirlo, volví a narrar solo la última escena con la palabra escrita como suena («guit jab»). El resto del audio no cambió.
+- La voz pronunciaba "GitHub" como "Gitbo". Para corregirlo, volví a narrar solo la última escena con la palabra escrita como suena ("guit jab"). El resto del audio no cambió.
 
 ## Correcciones a los subtítulos
 
-- Whisper escribía «Gitbo» y lo corregí a «GitHub».
+- Whisper escribía "Gitbo" y lo corregí a "GitHub".
 - Whisper repetía la última frase sobre el silencio final, y la quité.
